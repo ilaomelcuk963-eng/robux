@@ -1,0 +1,54 @@
+{
+  "visitors": [],
+  "orders": [],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Алексей",
+      "rating": 5,
+      "text": "Отличный сервис! Robux пришли быстро, без проблем.",
+      "timestamp": "2024-01-15 14:30:00"
+    },
+    {
+      "id": 2,
+      "name": "Мария",
+      "rating": 4,
+      "text": "Хорошие цены, но пришлось немного подождать доставки.",
+      "timestamp": "2024-01-14 16:45:00"
+    },
+    {
+      "id": 3,
+      "name": "Дмитрий",
+      "rating": 5,
+      "text": "Пользуюсь регулярно, всегда всё четко и быстро!",
+      "timestamp": "2024-01-13 10:20:00"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 1,
+      "robux": 1000,
+      "price": 299,
+      "quantity": 50
+    },
+    {
+      "id": 2,
+      "robux": 2500,
+      "price": 699,
+      "quantity": 25
+    },
+    {
+      "id": 3,
+      "robux": 5000,
+      "price": 1299,
+      "quantity": 10
+    }
+  ],
+  "next_review_id": 4,
+  "next_order_id": 1,
+  "next_promotion_id": 4,
+  "stats": {
+    "total_sold": 15847,
+    "happy_clients": 2394
+  }
+}
